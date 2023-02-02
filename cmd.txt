@@ -1,0 +1,4 @@
+gulp install
+gulp link
+gulp build-cli
+gulp build-sdk
